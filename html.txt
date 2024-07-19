@@ -1,0 +1,19 @@
+<html>
+<heAD>
+
+<head>
+<body>
+<h1>abhishek<h1>
+<pre>
+        Madhapur
+        Hyderabad
+        telnagana
+        500081
+<pre>aakaramabhishek@gmail.com
+<pre>educational qualifacation<h2>
+<p> I am abhishek i had my completed my graduation in B.sc
+<h3>skills<h3>
+good communication 
+<hr>
+jave, html,css
+
